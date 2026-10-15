@@ -4,7 +4,7 @@ I'm a developer learning cybersecurity and using NixOS as my daily operating sys
 
 I'm familiar with C++, C#, Rust, and Python, along with HTML, CSS, JavaScript, TypeScript, and React. I'm currently learning Java, Kotlin, and C while building my understanding of cybersecurity, reverse engineering, and secure software development.
 
-I'm also expanding my knowledge of AI and machine learning, exploring how to run and deploy models locally and in the cloud.
+I'm also expanding my knowledge of AI and machine learning, exploring how to run and deploy models locally and in the cloud to help improve my workflows.
 
 ### Technical Skills
 
