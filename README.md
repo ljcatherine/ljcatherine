@@ -1,16 +1,19 @@
-## Hi there 👋
+# Liam
 
-<!--
-**ljcatherine/ljcatherine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer learning cybersecurity and using NixOS as my daily operating system. My experience spans systems programming, application development, and web development.
 
-Here are some ideas to get you started:
+I'm familiar with C++, C#, Rust, and Python, along with HTML, CSS, JavaScript, TypeScript, and React. I'm currently learning Java, Kotlin, and C while developing my understanding of cybersecurity and secure software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+![Skills](https://skillicons.dev/icons?i=cpp,cs,rust,python,html,css,js,ts,react,nix&perline=10)
+
+### Currently Learning
+
+![Learning](https://skillicons.dev/icons?i=java,kotlin,c&perline=3)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljcatherine&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljcatherine&layout=compact&theme=transparent&hide_border=true)
