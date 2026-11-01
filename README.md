@@ -14,7 +14,7 @@ I'm also expanding my knowledge of AI and machine learning, exploring how to run
 
 Cybersecurity, reverse engineering, AI/ML, and local and cloud model deployment.
 
-![Learning](https://skillicons.dev/icons?i=java,kotlin,c&perline=3)
+![Learning](https://skillicons.dev/icons?i=java,kotlin&perline=3)
 
 ### GitHub Stats
 
