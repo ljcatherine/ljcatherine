@@ -24,9 +24,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Nexus** | Apps for running my home lab from anywhere: an iPhone app, desktop apps for Windows and Linux, and a web client. SSH terminals, files, services, host health and an AI workspace. Mostly private for now. | Swift · Rust · Cloudflare Workers |
-| [**ReskateMusic**](https://github.com/ljcatherine/ReskateMusic) | Spotify controls and a now-playing card inside skate.'s pause menu. Experimental. | C++ · Windows |
-| [**LocalLLM**](https://github.com/ljcatherine/LocalLLM) | A local-first desktop chat client for Ollama, made for NixOS, with streaming, token and speed stats, and model installs from Ollama or Hugging Face. | JavaScript · Nix |
+| [**Nexus**](https://github.com/ljcatherine/Nexus) | Apps for running my home lab from anywhere: an iPhone app, desktop apps for Windows and Linux, and a web client. SSH terminals, files, services, host health and an AI workspace. Open source, with setup docs at [nexus.liamjc.dev/docs](https://nexus.liamjc.dev/docs/). | Swift · Rust · Cloudflare Workers |
+| [**NexusAI**](https://github.com/ljcatherine/NexusAI) | Local language models on a PS5, with a console dashboard and an authenticated model-control API. Release 1.0.0. | C++ · GPL-3.0 |
+| [**NexusNix**](https://github.com/ljcatherine/NexusNix) | Nexus Desktop for NixOS: a Rust IDE, AI agents and an infrastructure manager. In progress. | Rust · Nix |
+| [**NexusiOS**](https://github.com/ljcatherine/NexusiOS) | Nexus for iPhone: SSH terminals, files, services, host health and AI chat. | Swift · SwiftUI |
 | [**liamjc.dev**](https://github.com/ljcatherine/liamjc.dev) | My personal site. Plain HTML, CSS and JavaScript, no build step. | Cloudflare Workers |
 
 ### Toolbox
@@ -35,12 +36,16 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,swift,html,css,js,ts,react&perline=10" alt="C++, C#, Rust, Python, Swift, HTML, CSS, JavaScript, TypeScript, React">
+  <br>
+  <img src="https://img.shields.io/badge/Objective--C-0B1430?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
 </p>
 
 **Platforms and tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nix,linux,git,github,cloudflare,docker,vscode&perline=10" alt="Nix, Linux, Git, GitHub, Cloudflare, Docker, VS Code">
+  <img src="https://skillicons.dev/icons?i=nix,linux,git,github,cloudflare,docker&perline=10" alt="Nix, Linux, Git, GitHub, Cloudflare, Docker">
+  <br>
+  <img src="https://img.shields.io/badge/Zed-0B1430?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
 </p>
 
 **Currently learning:** Java, Kotlin and C, plus cybersecurity, reverse engineering and AI/ML.
