@@ -35,7 +35,7 @@
 **Languages and frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,swift,html,css,js,ts,react&perline=10" alt="C++, C#, Rust, Python, Swift, HTML, CSS, JavaScript, TypeScript, React">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,rust,go,python,swift,html,css,js,ts,react&perline=11" alt="C++, C#, Rust, Go, Python, Swift, HTML, CSS, JavaScript, TypeScript, React">
 </p>
 
 **Platforms and tools**
