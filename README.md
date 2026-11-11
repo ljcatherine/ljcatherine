@@ -25,7 +25,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Nexus**](https://github.com/ljcatherine/Nexus) | Apps for running my home lab from anywhere: an iPhone app, desktop apps for Windows and Linux, and a web client. SSH terminals, files, services, host health and an AI workspace. Open source, with setup docs at [nexus.liamjc.dev/docs](https://nexus.liamjc.dev/docs/). | Swift · Rust · Cloudflare Workers |
-| [**NexusAI**](https://github.com/ljcatherine/NexusAI) | Local language models on a PS5, with a console dashboard and an authenticated model-control API. Release 1.0.0. | C++ · GPL-3.0 |
+| [**NexusAI**](https://github.com/ljcatherine/NexusAI) | Local language models on a PS5, with a console dashboard and an authenticated model-control API. | C++ · GPL-3.0 |
 | [**NexusNix**](https://github.com/ljcatherine/NexusNix) | Nexus Desktop for NixOS: a Rust IDE, AI agents and an infrastructure manager. In progress. | Rust · Nix |
 | [**NexusiOS**](https://github.com/ljcatherine/NexusiOS) | Nexus for iPhone: SSH terminals, files, services, host health and AI chat. | Swift · SwiftUI |
 | [**liamjc.dev**](https://github.com/ljcatherine/liamjc.dev) | My personal site. Plain HTML, CSS and JavaScript, no build step. | Cloudflare Workers |
