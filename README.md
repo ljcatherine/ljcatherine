@@ -36,16 +36,12 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python,swift,html,css,js,ts,react&perline=10" alt="C++, C#, Rust, Python, Swift, HTML, CSS, JavaScript, TypeScript, React">
-  <br>
-  <img src="https://img.shields.io/badge/Objective--C-0B1430?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
 </p>
 
 **Platforms and tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nix,linux,git,github,cloudflare,docker&perline=10" alt="Nix, Linux, Git, GitHub, Cloudflare, Docker">
-  <br>
-  <img src="https://img.shields.io/badge/Zed-0B1430?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
 </p>
 
 **Currently learning:** Java, Kotlin and C, plus cybersecurity, reverse engineering and AI/ML.
