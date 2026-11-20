@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Liam 👋
+# Hi, I'm Liam 
 
 <a href="https://liamjc.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Developer+on+NixOS;Learning+cybersecurity+%26+reverse+engineering;Running+AI+models+locally+and+in+the+cloud;Building+tools+for+my+home+lab" alt="Developer on NixOS · learning cybersecurity · running AI locally">
@@ -15,10 +15,10 @@
 
 ### About me
 
-- 🛠️ I build apps and tools across **systems programming, desktop and web**.
-- 🔐 I'm learning **cybersecurity, reverse engineering and secure software development**.
-- 🤖 I'm exploring **AI and machine learning**, especially running and deploying models locally and in the cloud.
-- ❄️ My daily operating system is **NixOS**, and I like reproducible builds and dev shells.
+-  I build apps and tools across **systems programming, desktop and web**.
+-  I'm learning **cybersecurity, reverse engineering and secure software development**.
+-  I'm exploring **AI and machine learning**, especially running and deploying models locally and in the cloud.
+-  My daily operating system is **NixOS**, and I like reproducible builds and dev shells.
 
 ### What I'm building
 
